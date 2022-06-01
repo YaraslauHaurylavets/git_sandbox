@@ -5,7 +5,12 @@ let user = {
 };
 
 function setUserName() {
-    user.name = prompt("Enter your name", "Anonimus");
+    let inputName = prompt("Enter your name", "Anonimus");
+    if (inputName == null) {
+        alert("No, no, no, not so easy! You should enter your name!");
+	setUserName();
+    }
+    else user.name = inputName;
 }
 
 function helloUser() {
