@@ -49,5 +49,9 @@ https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
 https://www.codewars.com/kata/5bf774a81505a7413400006a/train/javascript
 https://www.codewars.com/kata/5be0f1786279697939000157
 https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
-
+https://www.codewars.com/kata/5bb50eb68f8bbdb4b300021d
+https://www.codewars.com/kata/5ba178be875de960a6000187/train/javascript
+https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
+https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca/train/javascript
+https://www.codewars.com/kata/5b93f268563417c7ed0001bd/train/javascript
 
