@@ -63,6 +63,8 @@ https://www.codewars.com/kata/5b538734beb8654d6b00016d/train/javascript
 https://www.codewars.com/kata/5b4a36825dafedb872000d04/train/javascript
 https://www.codewars.com/kata/5b48a8b20fb337dd040002ca/train/javascript
 https://www.codewars.com/kata/5b2e60742ae7543f9d00005d
+https://www.codewars.com/kata/5ae7e3f068e6445bc8000046
+https://www.codewars.com/kata/5ad29cd95e8210:02 PM 6/5/202240dd85000b54
 
 
 A maximal subarray
