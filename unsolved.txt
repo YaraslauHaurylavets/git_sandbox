@@ -18,18 +18,17 @@
 	https://www.codewars.com/kata/5cd48cffaae6e30018943175/train/javascript
 	https://www.codewars.com/kata/5cb7baa989b1c50014a53333/train/javascript
 	https://www.codewars.com/kata/5c857bab20089d4fe65a7f5b/train/javascript
-https://www.codewars.com/kata/5c784110bfe2ef660cb90369/train/javascript
-https://www.codewars.com/kata/5c6dc504abcd1628cd174bea/train/javascript
-https://www.codewars.com/kata/5c511d8877c0070e2c195faf/train/javascript
-https://www.codewars.com/kata/5c50a0e8cdc6aa29703f6805/train/javascript
-https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
-https://www.codewars.com/kata/5bf774a81505a7413400006a/train/javascript
-https://www.codewars.com/kata/5be0f1786279697939000157
-https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
-https://www.codewars.com/kata/5bb50eb68f8bbdb4b300021d
-https://www.codewars.com/kata/5ba178be875de960a6000187/train/javascript
-https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
-https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca/train/javascript
+	https://www.codewars.com/kata/5c784110bfe2ef660cb90369/train/javascript
+	https://www.codewars.com/kata/5c6dc504abcd1628cd174bea/train/javascript
+	https://www.codewars.com/kata/5c511d8877c0070e2c195faf/train/javascript
+	https://www.codewars.com/kata/5c50a0e8cdc6aa29703f6805/train/javascript
+	https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
+	https://www.codewars.com/kata/5be0f1786279697939000157
+	https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
+	https://www.codewars.com/kata/5bb50eb68f8bbdb4b300021d
+	https://www.codewars.com/kata/5ba178be875de960a6000187/train/javascript
+	https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
+	https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca/train/javascript
 https://www.codewars.com/kata/5b93f268563417c7ed0001bd/train/javascript
 https://www.codewars.com/kata/5b728f801db5cec7320000c7/train/javascript
 https://www.codewars.com/kata/5b6ee22ac5cc71833f0010d7/train/javascript
