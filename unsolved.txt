@@ -58,3 +58,61 @@ getMaxSubSum([-1, -2, -3]) = 0
 Please try to think of a fast solution: O(n2) or even O(n) if you can.
 
 Open a sandbox with tests.
+
+
+		"FORI": {
+		"prefix": "fori",
+		"body": [
+			"for (let i of $1) {\n\t$2\n}\n$3"
+		],
+		"description": "Short for cycle"
+	},
+		"FORE": {
+		"prefix": "fore",
+		"body": [
+			"arr.forEach(x => $1);\n$2"
+		],
+		"description": "arrow for cycle"
+	},
+		"FOR": {
+		"prefix": "for",
+		"body": [
+			"for (let i = 0; i < $1; i++) {\n\t$2\n}\n$3"
+		],
+		"description": "Old good for"
+	},
+	"Filter": {
+		"prefix": "filt",
+		"body": [
+			"arr.filter(x => $1);\n$2"
+		],
+		"description": "Filter array"
+	},
+	"Map": {
+		"prefix": "map",
+		"body": [
+			"arr.map(x => $1);\n$2"
+		],
+		"description": "Map array"
+	},
+	"Reduce": {
+		"prefix": "red",
+		"body": [
+			"arr.reduce( (sum, x) => $1);\n$2"
+		],
+		"description": "Reduce array"
+	},
+	"Split": {
+		"prefix": "sp",
+		"body": [
+			"split(\"\");\n$1"
+		],
+		"description": "Split string to array"
+	},
+	"Object": {
+		"prefix": "obj",
+		"body": [
+			"let $1 = {\n\t$2\n};\n$3"
+		],
+		"description": "Create object"
+	},
