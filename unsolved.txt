@@ -27,92 +27,10 @@ https://www.codewars.com/kata/5be0f1786279697939000157
 	https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
 https://www.codewars.com/kata/5bb50eb68f8bbdb4b300021d
 https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
-https://www.codewars.com/kata/5b94d7eb1d5ed297680000ca/train/javascript
 https://www.codewars.com/kata/5b6d9e478adeae4d62000064
 	https://www.codewars.com/kata/5b2e60742ae7543f9d00005d
 	https://www.codewars.com/kata/5ad29cd95e8240dd85000b54
 
 
-A maximal subarray
-importance: 2
 
-The input is an array of numbers, e.g. arr = [1, -2, 3, 4, -9, 6].
-
-The task is: find the contiguous subarray of arr with the maximal sum of items.
-
-Write the function getMaxSubSum(arr) that will return that sum.
-
-For instance:
-
-getMaxSubSum([-1, 2, 3, -9]) == 5 (the sum of highlighted items)
-getMaxSubSum([2, -1, 2, 3, -9]) == 6
-getMaxSubSum([-1, 2, 3, -9, 11]) == 11
-getMaxSubSum([-2, -1, 1, 2]) == 3
-getMaxSubSum([100, -9, 2, -3, 5]) == 100
-getMaxSubSum([1, 2, 3]) == 6 (take all)
-
-If all items are negative, it means that we take none (the subarray is empty), so the sum is zero:
-
-getMaxSubSum([-1, -2, -3]) = 0
-
-Please try to think of a fast solution: O(n2) or even O(n) if you can.
-
-Open a sandbox with tests.
-
-
-		"FORI": {
-		"prefix": "fori",
-		"body": [
-			"for (let i of $1) {\n\t$2\n}\n$3"
-		],
-		"description": "Short for cycle"
-	},
-		"FORE": {
-		"prefix": "fore",
-		"body": [
-			"arr.forEach(x => $1);\n$2"
-		],
-		"description": "arrow for cycle"
-	},
-		"FOR": {
-		"prefix": "for",
-		"body": [
-			"for (let i = 0; i < $1; i++) {\n\t$2\n}\n$3"
-		],
-		"description": "Old good for"
-	},
-	"Filter": {
-		"prefix": "filt",
-		"body": [
-			"arr.filter(x => $1);\n$2"
-		],
-		"description": "Filter array"
-	},
-	"Map": {
-		"prefix": "map",
-		"body": [
-			"arr.map(x => $1);\n$2"
-		],
-		"description": "Map array"
-	},
-	"Reduce": {
-		"prefix": "red",
-		"body": [
-			"arr.reduce( (sum, x) => $1);\n$2"
-		],
-		"description": "Reduce array"
-	},
-	"Split": {
-		"prefix": "sp",
-		"body": [
-			"split(\"\");\n$1"
-		],
-		"description": "Split string to array"
-	},
-	"Object": {
-		"prefix": "obj",
-		"body": [
-			"let $1 = {\n\t$2\n};\n$3"
-		],
-		"description": "Create object"
-	},
+		
