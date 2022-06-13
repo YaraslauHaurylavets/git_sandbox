@@ -17,20 +17,14 @@ https://www.codewars.com/kata/5d0d1c14c843440026d7958e/train/javascript
 https://www.codewars.com/kata/5d0365accfd09600130a00c9/train/javascript
 https://www.codewars.com/kata/5cd48cffaae6e30018943175/train/javascript
 https://www.codewars.com/kata/5cb7baa989b1c50014a53333/train/javascript
-https://www.codewars.com/kata/5c857bab20089d4fe65a7f5b/train/javascript
-https://www.codewars.com/kata/5c784110bfe2ef660cb90369/train/javascript
-https://www.codewars.com/kata/5c6dc504abcd1628cd174bea/train/javascript
-https://www.codewars.com/kata/5c511d8877c0070e2c195faf/train/javascript
-https://www.codewars.com/kata/5c50a0e8cdc6aa29703f6805/train/javascript
 https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
-https://www.codewars.com/kata/5be0f1786279697939000157
 	https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
-https://www.codewars.com/kata/5bb50eb68f8bbdb4b300021d
 https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
 https://www.codewars.com/kata/5b6d9e478adeae4d62000064
 	https://www.codewars.com/kata/5b2e60742ae7543f9d00005d
 	https://www.codewars.com/kata/5ad29cd95e8240dd85000b54
 
-
+https://www.toptal.com/javascript/10-most-common-javascript-mistakes  
+https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value +++++ array sort
 
 		
