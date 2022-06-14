@@ -9,18 +9,17 @@ https://www.codewars.com/kata/5f5da7a415fbdc0001ae3c69/train/javascript
 	https://www.codewars.com/kata/5e529a6fb95d280032d04389/train/javascript
 	https://www.codewars.com/kata/5e4e8f5a72d9550032953717/train/javascript
 https://www.codewars.com/kata/5d72704499ee62001a7068c7
-https://www.codewars.com/kata/5da9973d06119a000e604cb6/train/javascript
 	https://www.codewars.com/kata/5d774cfde98179002a7cb3c8
-https://www.codewars.com/kata/5d50e3914861a500121e1958/train/javascript
+
 	https://www.codewars.com/kata/5d2659626c7aec0022cb8006/train/javascript
 https://www.codewars.com/kata/5d0d1c14c843440026d7958e/train/javascript
-https://www.codewars.com/kata/5d0365accfd09600130a00c9/train/javascript
+	https://www.codewars.com/kata/5d0365accfd09600130a00c9/train/javascript
 https://www.codewars.com/kata/5cd48cffaae6e30018943175/train/javascript
-https://www.codewars.com/kata/5cb7baa989b1c50014a53333/train/javascript
-https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
+
+	https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
 	https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
-https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
-https://www.codewars.com/kata/5b6d9e478adeae4d62000064
+	https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
+	https://www.codewars.com/kata/5b6d9e478adeae4d62000064
 	https://www.codewars.com/kata/5b2e60742ae7543f9d00005d
 	https://www.codewars.com/kata/5ad29cd95e8240dd85000b54
 
