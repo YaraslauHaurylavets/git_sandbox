@@ -1,17 +1,12 @@
-https://www.codewars.com/kata/6167e70fc9bd9b00565ffa4e/train/javascript
-https://www.codewars.com/kata/6129095b201d6b000e5a33f0
-https://www.codewars.com/kata/606b43f4adea6e00425dff42/train/javascript
+	https://www.codewars.com/kata/606b43f4adea6e00425dff42/train/javascript
 https://www.codewars.com/kata/604287495a72ae00131685c7/train/javascript
 https://www.codewars.com/kata/5ff2093d375dca00170057bc/train/javascript
 	https://www.codewars.com/kata/5fc836f5a167260008dfad7f/train/javascript
-https://www.codewars.com/kata/5eaf798e739e39001218a2f4/train/javascript
 	https://www.codewars.com/kata/5e529a6fb95d280032d04389/train/javascript
 	https://www.codewars.com/kata/5e4e8f5a72d9550032953717/train/javascript
 	https://www.codewars.com/kata/5d774cfde98179002a7cb3c8
 	https://www.codewars.com/kata/5d2659626c7aec0022cb8006/train/javascript
-https://www.codewars.com/kata/5d0d1c14c843440026d7958e/train/javascript
 	https://www.codewars.com/kata/5d0365accfd09600130a00c9/train/javascript
-https://www.codewars.com/kata/5cd48cffaae6e30018943175/train/javascript
 	https://www.codewars.com/kata/5c2deeea41e2304c133c1d1b/train/javascript
 	https://www.codewars.com/kata/5bdc1558ab6bc57f47000b8e/train/javascript
 	https://www.codewars.com/kata/5b9e29dc1d5ed219910000a7/train/javascript
@@ -24,14 +19,6 @@ https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-prop
 array sort
 data tasks
 json 
++next after json
+++next after json
 
-		let tt = [];
-
-function gridMap(fn,a) {
-  if (a.length == tt.length) a = tt.slice();
-  else tt = a.slice();
-for (let i =0; i<a.length; i++){
-  a[i] = a[i].map( fn );
-}
-  return a;
-}
