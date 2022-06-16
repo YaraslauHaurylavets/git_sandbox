@@ -13,12 +13,7 @@ https://www.codewars.com/kata/5ff2093d375dca00170057bc/train/javascript
 	https://www.codewars.com/kata/5b6d9e478adeae4d62000064
 	https://www.codewars.com/kata/5b2e60742ae7543f9d00005d
 	https://www.codewars.com/kata/5ad29cd95e8240dd85000b54
+date tasks
+json tasks 
 
-https://www.toptal.com/javascript/10-most-common-javascript-mistakes  
-https://stackoverflow.com/questions/1129216/sort-array-of-objects-by-string-property-value 
-array sort
-data tasks
-json 
-+next after json
-++next after json
 
