@@ -1,17 +1,5 @@
-https://webref.ru/course/block-inline/block diy
-https://webref.ru/course/block-inline/inline diy
-https://webref.ru/course/block-model/margin diy
-https://webref.ru/course/block-model/size diy
-https://webref.ru/course/block-inline/inline-block diy
-https://webref.ru/course/position/static diy
-https://webref.ru/course/position/relative diy
-https://webref.ru/course/position/absolute diy
-https://webref.ru/course/position/relative-absolute diy
-https://webref.ru/course/position/fixed diy
-https://webref.ru/course/position/sticky diy
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-https://webref.ru/layout/flexbox-tutorial
-https://habr.com/ru/post/467049/
 https://www.evernote.com/shard/s368/client/snv?noteGuid=4346cdea-9386-4738-bfff-f9faafc05e94&noteKey=fb6ec76312f7111b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2F4346cdea-9386-4738-bfff-f9faafc05e94%2Ffb6ec76312f7111b&title=CSS%253A%2BFlexbox%2B%2528htmlacademy.ru%2529
 https://habr.com/ru/post/313938/
 
@@ -23,5 +11,16 @@ flex test
 
 cross-check review 
 
+https://webref.ru/course/block-inline/block diy
+https://webref.ru/course/block-inline/inline diy
+https://webref.ru/course/block-model/margin diy
+https://webref.ru/course/block-model/size diy
+https://webref.ru/course/block-inline/inline-block diy
+https://webref.ru/course/position/static diy
+https://webref.ru/course/position/relative diy
+https://webref.ru/course/position/absolute diy
+https://webref.ru/course/position/relative-absolute diy
+https://webref.ru/course/position/fixed diy
+https://webref.ru/course/position/sticky diy
 figma
 travel
