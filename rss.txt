@@ -18,11 +18,10 @@ https://habr.com/ru/post/313938/
 flex lecture
 flex test
 
-~~~~js
 ~~~~js lecture
 ~~~~js test
 
-cross-check review 18.06
+cross-check review 
 
 figma
 travel
