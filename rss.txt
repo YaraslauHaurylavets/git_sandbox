@@ -1,14 +1,9 @@
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
 https://www.evernote.com/shard/s368/client/snv?noteGuid=4346cdea-9386-4738-bfff-f9faafc05e94&noteKey=fb6ec76312f7111b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2F4346cdea-9386-4738-bfff-f9faafc05e94%2Ffb6ec76312f7111b&title=CSS%253A%2BFlexbox%2B%2528htmlacademy.ru%2529
 https://habr.com/ru/post/313938/
 
-flex lecture
 flex test
-
-~~~~js lecture
-~~~~js test
-
+js test
 cross-check review 
 
 https://webref.ru/course/block-inline/block diy
