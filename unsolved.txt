@@ -1,6 +1,6 @@
 	https://www.codewars.com/kata/606b43f4adea6e00425dff42/train/javascript
-https://www.codewars.com/kata/604287495a72ae00131685c7/train/javascript
-https://www.codewars.com/kata/5ff2093d375dca00170057bc/train/javascript
+	https://www.codewars.com/kata/604287495a72ae00131685c7/train/javascript
+	https://www.codewars.com/kata/5ff2093d375dca00170057bc/train/javascript
 	https://www.codewars.com/kata/5fc836f5a167260008dfad7f/train/javascript
 	https://www.codewars.com/kata/5e529a6fb95d280032d04389/train/javascript
 	https://www.codewars.com/kata/5e4e8f5a72d9550032953717/train/javascript
