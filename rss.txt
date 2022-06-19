@@ -4,10 +4,6 @@ https://habr.com/ru/post/313938/
 
 cross-check review 
 
-https://webref.ru/course/block-inline/block diy
-https://webref.ru/course/block-inline/inline diy
-https://webref.ru/course/block-model/margin diy
-https://webref.ru/course/block-model/size diy
 https://webref.ru/course/block-inline/inline-block diy
 https://webref.ru/course/position/static diy
 https://webref.ru/course/position/relative diy
