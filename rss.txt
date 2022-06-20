@@ -1,11 +1,3 @@
 cross-check review 
-
-https://webref.ru/course/block-inline/inline-block diy
-https://webref.ru/course/position/static diy
-https://webref.ru/course/position/relative diy
-https://webref.ru/course/position/absolute diy
-https://webref.ru/course/position/relative-absolute diy
-https://webref.ru/course/position/fixed diy
-https://webref.ru/course/position/sticky diy
 figma
 travel
