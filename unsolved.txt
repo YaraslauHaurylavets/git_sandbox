@@ -13,6 +13,9 @@
 	https://www.codewars.com/kata/5b6d9e478adeae4d62000064
 	https://www.codewars.com/kata/5b2e60742ae7543f9d00005d
 	https://www.codewars.com/kata/5ad29cd95e8240dd85000b54
+https://www.codewars.com/kata/6161847f52747c0025d0349a/train/javascript
+https://www.codewars.com/kata/60e4dfc1dc28e70049e2cb9d/train/javascript
+
 
 
 
